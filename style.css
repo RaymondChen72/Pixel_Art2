@@ -1,0 +1,37 @@
+body {
+    background-color: blanchedalmond
+}
+
+#art{
+  display: table;
+  border-spacing: 1px;
+  background-color: black;
+  border: 5px solid black;
+}  
+
+.row{
+  display: table-row;
+}
+
+.column{
+  display: table-row;
+}
+
+.pixel{
+  display: table-cell;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+}
+
+.pen{
+  display: inline-block;
+  width:40px;
+  height: 40px;
+  border: 2px solid black;
+}
+
+h1{
+    font-size: 65px;
+    
+}
